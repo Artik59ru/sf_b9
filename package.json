@@ -1,0 +1,22 @@
+{
+  "name": "sf_b9",
+  "version": "1.0.0",
+  "description": "My test description",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Artik59ru/sf_b9.git"
+  },
+  "author": "Gilev Artem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Artik59ru/sf_b9/issues"
+  },
+  "homepage": "https://github.com/Artik59ru/sf_b9#readme",
+  "dependencies": {
+    "jquery": "^3.6.0"
+  }
+}
